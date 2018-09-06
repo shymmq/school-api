@@ -33,6 +33,7 @@ java.sourceSets {
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
+    implementation("org.junit.platform:junit-platform-runner:1.3.0")
 }
 
 kotlin {
