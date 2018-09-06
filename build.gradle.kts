@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.jetbrains.kotlin.gradle.dsl.Coroutines
 
 plugins {
-    val kotlinVersion = "1.2.41"
+    val kotlinVersion = "1.2.61"
     id("org.jetbrains.kotlin.jvm") version kotlinVersion
     application
 }
